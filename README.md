@@ -35,9 +35,4 @@ This project demonstrates a **real-time data engineering pipeline** that collect
 
 ---
 
-##  Getting Started
 
-### 1 Clone the Repository
-```bash
-git clone https://github.com/<your-username>/real-time-weather-pipeline.git
-cd real-time-weather-pipeline
