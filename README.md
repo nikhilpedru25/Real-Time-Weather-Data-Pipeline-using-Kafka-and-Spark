@@ -1,6 +1,5 @@
 # Real-Time-Weather-Data-Pipeline-using-Kafka-and-Spark
 
-# 🌦 Real-Time Weather Data Pipeline using Kafka and Spark
 
 ## Overview
 This project demonstrates a **real-time data engineering pipeline** that collects live weather data from a public Weather API, streams it into **Apache Kafka**, and processes the data with **Apache Spark Structured Streaming**. It simulates an industry-like setup for ETL pipelines and big data processing.
